@@ -1,0 +1,20 @@
+{
+  "name": "Libra Resolv Contabilidade",
+  "short_name": "Libra Resolv",
+  "description": "Escritório de Assessoria e Consultoria Contábil em São Carlos SP. Imposto de Renda, Simples Nacional, MEI, Lucro Real, Contabilidade Imobiliária e mais.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1A2E",
+  "theme_color": "#0B1A2E",
+  "orientation": "portrait-primary",
+  "lang": "pt-BR",
+  "categories": ["business", "finance"],
+  "icons": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663362290699/bWyiZvwZaPCaPdEyQMe6sQ/logo-square_13f71bfb.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
