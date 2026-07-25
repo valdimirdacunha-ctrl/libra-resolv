@@ -55,7 +55,7 @@ export default function Testimonials() {
                 <Star key={i} className="w-5 h-5 fill-[#D4A843] text-[#D4A843]" />
               ))}
             </div>
-            <span className="text-white/70 text-lg ml-2">5.0 no Google (26 avaliações)</span>
+            <span className="text-white/70 text-lg ml-2">5.0 no Google (53 avaliações)</span>
           </div>
         </motion.header>
 
@@ -92,9 +92,11 @@ export default function Testimonials() {
                 &ldquo;{testimonial.text}&rdquo;
               </blockquote>
 
-              <div className="border-t border-white/10 pt-4" itemProp="author" itemScope itemType="https://schema.org/Person">
-                <div className="font-semibold text-white text-sm" itemProp="name">{testimonial.name}</div>
-                <div className="text-white/40 text-xs">{testimonial.role}</div>
+              <div className="border-t border-white/10 pt-4">
+                <div itemProp="author" itemScope itemType="https://schema.org/Person">
+                  <div className="font-semibold text-white text-sm" itemProp="name">{testimonial.name}</div>
+                  <div className="text-white/40 text-xs">{testimonial.role}</div>
+                </div>
               </div>
 
             </motion.article>

@@ -60,7 +60,7 @@ export default function Hero() {
                 ))}
               </div>
               <span className="text-sm text-[#D4A843] font-medium">
-                5.0 no Google &mdash; 26 avaliações
+                5.0 no Google &mdash; 53 avaliações
               </span>
             </motion.div>
 
