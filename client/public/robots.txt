@@ -3,10 +3,7 @@ Allow: /
 Disallow: /404
 
 # Sitemap
-Sitemap: https://libraresolv.com.br/sitemap.xml
-
-# Crawl-delay (optional, for polite crawling)
-Crawl-delay: 1
+Sitemap: https://www.libraresolv.com.br/sitemap.xml
 
 # Google specific
 User-agent: Googlebot
